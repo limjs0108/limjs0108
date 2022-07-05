@@ -16,6 +16,6 @@
 
 # 📊GitHub Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limjs0108&theme=blue-green&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjs0108)](https://github.com/limjs0108/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=limjs0108&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=limjs0108&icon=7&color=6)](https://visitcount.itsvg.in) 
 
